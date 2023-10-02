@@ -30,6 +30,7 @@
     display: flex;
     justify-content: center;
     gap: 24px;
+    flex-wrap: wrap;
 }
 
 .popular-foods__filter-btn {
