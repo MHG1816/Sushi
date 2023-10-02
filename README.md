@@ -24,3 +24,8 @@ bun dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
+
+## Browsing the site on Real time
+
+Visiting and navigate this url [Sushiman](https://sushiman-bd963.netlify.app/)
+
