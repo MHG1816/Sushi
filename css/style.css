@@ -3,6 +3,7 @@
 
 @import url("./sections/header.css");
 @import url("./sections/hero.css");
+@import url("./sections/about.css");
 /* CSS variables */
 :root {
     --plafair-display: "Playfair Display", serif;
@@ -35,6 +36,29 @@ body {
 a  {
     text-decoration: none;
     color: inherit;
+}
+
+.sushi__subtitle {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: var(--plus-jakarta-sans);
+
+    color: var(--secondary-color);
+    
+    margin-top: 16px;
+}
+
+.sushi__description {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: var(--plus-jakarta-sans);
+
+    line-height: 36px;
+    letter-spacing: -.01em;
+
+    color: var(--secondary-color);
+    opacity: .8;
+    margin: 32px 0px;
 }
 
 .flex-center {
