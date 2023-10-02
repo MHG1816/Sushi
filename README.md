@@ -2,7 +2,7 @@
 
 ![Sushi](https://i.ibb.co/dBxww2c/Sushi.png)
 
-This is a [Vanilla] project boostrapped with [` crete vite`] 
+This is a `Vanilla` project boostrapped with `create vite` 
 
 ## Getting Started 
 
